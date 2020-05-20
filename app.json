@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tabproj",
-    "slug": "tabproj",
+    "name": "HelloWorld",
+    "slug": "appmidterm",
     "platforms": [
       "ios",
       "android",
@@ -9,10 +9,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -25,8 +24,6 @@
     "ios": {
       "supportsTablet": true
     },
-    "web": {
-      "favicon": "./assets/images/favicon.png"
-    }
+    "description": ""
   }
 }
