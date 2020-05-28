@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "appmidterm",
+    "name": "wkcproj",
+    "slug": "wkcproj",
     "platforms": [
       "ios",
       "android",
@@ -11,9 +11,9 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/google-500.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFE4C4"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,7 +23,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    },
-    "description": ""
+    }
   }
 }
